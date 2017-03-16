@@ -1,5 +1,7 @@
 # Welcome to ARC's Coding Workshops Github Repo!
-### This is where you'll find all you need to succeed in the 4 workshops to be host in Spring 2017. These classes are hosted in partnershit with the brain power of: ![General Assembly](http://www.coindesk.com/wp-content/themes/coindesk2/images/events/consensus-2015/sponsors-and-partners/general-assembly.png)
+### This is where you'll find all you need to succeed in the 4 workshops to be host in Spring 2017. These classes are hosted in partnershit with the brain power of: 
+
+![General Assembly](http://www.coindesk.com/wp-content/themes/coindesk2/images/events/consensus-2015/sponsors-and-partners/general-assembly.png)
 Check out their work in Atlanta: https://generalassemb.ly
 ## Pre-work
 This work should take no more than ___ hours
