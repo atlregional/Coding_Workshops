@@ -1,8 +1,7 @@
 #Welcome to ARC's Coding Workshops Github Repo!
+###This is where you'll find all you need to succeed in the 4 workshops to be hosting in Spring 2017.
 
-##This is where you'll find all you need to succeed in the 4 workshops to be hosting in Spring 2017.
-
-##**Pre-work**
+##Pre-work
 This work should take no more than ___ hours
 The *pre-work* folder has some tips documents to help in the event you get stuck in some of the exercises.
 
