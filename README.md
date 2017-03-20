@@ -7,7 +7,7 @@ Check out their work in Atlanta: https://generalassemb.ly
 Check out who you'll be <del>suffering</del> learning with:
 https://atlregional.github.io/Coding_Workshops/ 
 
-Also hopefully, you won't have to miss any of the workshops. But, life happens so if you can't make a workshop please use the link above to get the name of someone with "stand-by" status and invite them to fill your seat.
+Hopefully, you won't have to miss any of the workshops. But, life happens so if you can't make a workshop please use the link above to get the name of someone with "stand-by" status and invite them to fill your seat.
 
 ## Pre-work
 This work should take no more than ___ hours
