@@ -1,4 +1,4 @@
-#### Here are a few resource you may find useful while completeing the pre-req work.
+#### Here is a list of a few resource you may find useful while completing the pre-work:
 
 * https://www.w3schools.com/
 * https://github.com/ATL-WDI-Curriculum/helpful_links 

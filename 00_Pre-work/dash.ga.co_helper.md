@@ -2,7 +2,7 @@
 [Project 1](#project-1), [Project 2](#project-2), [Project 4](#project-4)
 
 # Project 1 
-### Learing HTML & CSS
+### Learning HTML & CSS
 
 ### First, take a look at the skills tab. It may help refresh your memory on what you've learned.
  ![](assets/skills.png)
@@ -235,7 +235,7 @@ Don't forget to check out the skills tab if you get stuck.
 #### Have fun with Part 4!
 
 # Project 3 
-Feel free to tackle project 3. I think project 4 is a bit more fun. You're already have a great foundation of html & CSS!
+Feel free to tackle project 3. I think project 4 is a bit more fun. You already have a great foundation of HTML & CSS!
 
 # Project 4 
 # (parts 1 & 2 only) 
