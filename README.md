@@ -3,6 +3,8 @@
 
 ![General Assembly](http://www.coindesk.com/wp-content/themes/coindesk2/images/events/consensus-2015/sponsors-and-partners/general-assembly.png)
 Check out their work in Atlanta: https://generalassemb.ly
+## Who's in the class?
+Check out who you'll be <del>suffering</del> learning with:
 ## Pre-work
 This work should take no more than ___ hours
 The **pre-req** folder has some tips documents to help in the event you get stuck in some of the exercises.
