@@ -303,7 +303,7 @@ div {
 </body>
 ```
 #### Code for part 2 should look like so:
-```hmtl
+```html
 <!DOCTYPE html>
 
 <head>
