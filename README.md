@@ -13,7 +13,7 @@ Hopefully, you won't have to miss any of the workshops. But, life happens so if 
 This work should take no more than ___ hours
 The **pre-req** folder has some tips documents to help in the event you get stuck in some of the exercises.
 
-1. Sign up for a free account at https://dash.ga.co 
+1. Sign up for a free account at https://dash.generalassemb.ly/projects
 2. Run through Projects 1, 2, and 4 (parts 1 and 2) at your own pace. This should take 3-4 hours.
 3. Use https://www.w3schools.com/ as a resource to help if you get stuck in the process. Also, more targeted tips have been added to the Pre-req/Projects_resources file
 
