@@ -5,7 +5,7 @@
 This work should take you 4-5 hours to complete (total guesstimate). 
 Here's how to get started;
 
-1. visit https://dash.ga.co
+1. visit https://dash.generalassemb.ly/
 2. set up a free account
 3. get to work on completing Project 1, Project 2, and Project 4 (parts 1 & 2)
 4.  *__bonus__* feel free to try out Project 3, the remainder of project 4, and Project 5
